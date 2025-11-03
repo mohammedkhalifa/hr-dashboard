@@ -5,6 +5,12 @@ The Human Resource Dashboard offers a comprehensive view of employee data, track
 
 ![Dashboard Preview](./hr-dashboard.png)
 
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/mohammed.khalifa7230/viz/hr-project_17582031811670/HRSummary" target="_blank">
+    🟢 <b>View the Full Details Dashboard</b>
+  </a>
+</p>
+
 ### 📊  Dashboard Summary ###
 This interactive Tableau dashboard provides insights into the organization’s workforce structure and trends. It consolidates HR metrics such as hiring, termination, education, performance, income, and demographics into one intuitive interface.
 
