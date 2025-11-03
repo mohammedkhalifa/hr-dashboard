@@ -3,6 +3,8 @@
 ## Overview ##
 The Human Resource Dashboard offers a comprehensive view of employee data, tracking hiring trends, demographics, performance, and compensation to help HR teams make data-driven workforce decisions efficiently.
 
+![Dashboard Preview](./hr-dashboard.png)
+
 ### 📊  Dashboard Summary ###
 This interactive Tableau dashboard provides insights into the organization’s workforce structure and trends. It consolidates HR metrics such as hiring, termination, education, performance, income, and demographics into one intuitive interface.
 
