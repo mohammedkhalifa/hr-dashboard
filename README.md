@@ -70,6 +70,12 @@ The Details Dashboard provides an in-depth view of individual employee data, com
 
 ![Dashboard Preview](./hr-dashboard-detail.png)
 
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/mohammed.khalifa7230/viz/hr-project_17582031811670/HRSummary" target="_blank">
+    🟢 <b>View the Full Details Dashboard</b>
+  </a>
+</p>
+
 ### 🔍 Key Features ###
 - Employee Directory: Interactive list of employees with quick search by ID.
 - Role & Region Insights: Displays each employee’s job title and work location.
