@@ -47,14 +47,41 @@ The dashboard includes dynamic filters to refine insights by:
 - Hire Date
 These filters allow users to explore specific subsets of data in real time for deeper understanding.
 
-## 🧠 Tools & Technologies ##
+### 🧠 Tools & Technologies ###
 - Visualization Tool: Tableau
 - Metrics Covered: Headcount, Turnover, Education, Performance, Salary, Location
 - Design Style: Dark theme with teal and magenta highlights for modern readability
 
-## 💡 Purpose ##
+### 💡 Purpose ###
 This project demonstrates how HR analytics can drive better workforce management by providing:
 - Data-driven decision-making
 - Workforce planning and forecasting
 - Diversity and inclusion insights
 - Salary benchmarking and equity analysis
+
+## Details Dashboard ##
+The Details Dashboard provides an in-depth view of individual employee data, complementing the main HR overview dashboard. It allows HR managers to explore specific employee information such as demographics, roles, salary, and employment duration.
+
+![Dashboard Preview](./hr-dashboard-detail.png)
+
+### 🔍 Key Features ###
+- Employee Directory: Interactive list of employees with quick search by ID.
+- Role & Region Insights: Displays each employee’s job title and work location.
+- Salary Analysis: Includes a dynamic salary range filter to analyze compensation distribution.
+- Employment Duration: Visual bars represent each employee’s tenure within the company.
+- Status Tracking: Clearly identifies active and terminated employees along with their hire dates.
+
+### ⚙️ Filters & Interactivity ###
+Users can filter by:
+- Employee ID
+- Salary Range
+- Status (Hired / Terminated)
+- Region
+- Role
+  
+### 🎯 Purpose ###
+This dashboard supports individual-level analysis, making it easier for HR teams to:
+- Review compensation and performance consistency.
+- Identify long-serving or recently hired employees.
+- Analyze workforce distribution by role and region.
+
